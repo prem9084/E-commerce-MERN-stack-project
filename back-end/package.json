@@ -13,6 +13,14 @@
   },
   "keywords": [],
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prem9084/E-commerce-MERN-stack-project.git"
+},
+"bugs": {
+         "url": "https://github.com/prem9084/E-commerce-MERN-stack-project/issues"
+   },
+     "homepage": "https://github.com/prem9084/E-commerce-MERN-stack-project#readme",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
